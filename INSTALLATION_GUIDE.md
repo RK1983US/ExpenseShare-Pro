@@ -14,7 +14,7 @@
 1. **Install Python 3.8+** from [python.org](https://python.org)
 2. **Open Command Prompt** in the application folder
 3. **Install dependencies**: `pip install -r requirements.txt`
-4. **Run the application**: `python SplitWise_Modern.py`
+4. **Run the application**: Double-click `ExpenseShare_Pro_v1.0.exe`
 
 ---
 

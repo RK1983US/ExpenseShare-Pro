@@ -14,7 +14,7 @@
 ### For Advanced Users (Python)
 1. **Install Python 3.8+** from [python.org](https://python.org)
 2. **Install dependencies**: `pip install -r requirements.txt`
-3. **Run the application**: `python SplitWise_Modern.py`
+3. **Run the application**: Double-click `ExpenseShare_Pro_v1.0.exe`
 
 ---
 
@@ -98,7 +98,8 @@
 
 3. **Run Application**
    ```bash
-   python SplitWise_Modern.py
+   # Double-click the executable or run:
+   ExpenseShare_Pro_v1.0.exe
    ```
 
 ---
@@ -196,7 +197,7 @@ ExpenseShare Pro v1.0/
 ├── ExpenseShare_Pro_v1.0.exe    # Main executable
 ├── README.md                     # This file
 ├── requirements.txt              # Python dependencies
-├── SplitWise_Modern.py          # Source code
+├── ExpenseShare_Pro_v1.0.exe    # Main executable
 ├── run_app.py                   # Launcher script
 ├── TROUBLESHOOTING.md           # Detailed troubleshooting
 ├── docs/                        # Documentation folder

@@ -11,7 +11,8 @@ pip install -r requirements.txt
 
 ### 2. Run the Application
 ```bash
-python SplitWise_Modern.py
+# Double-click the executable file or run from command line:
+ExpenseShare_Pro_v1.0.exe
 ```
 
 ### 3. Start Using!
@@ -33,7 +34,7 @@ That's it! 🎉
 ## 🎯 First Steps
 
 ### Create Your First Group
-1. **Launch**: Run `python SplitWise_Modern.py`
+1. **Launch**: Double-click `ExpenseShare_Pro_v1.0.exe`
 2. **Create Group**: Click "Create New Group"
 3. **Name It**: Enter group name (e.g., "Trip to Paris")
 4. **Set Currency**: Choose your preferred currency

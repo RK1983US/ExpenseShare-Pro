@@ -120,7 +120,7 @@
 ### **For Developers**
 1. Install Python 3.8+
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run: `python SplitWise_Modern.py`
+3. Run: Double-click `ExpenseShare_Pro_v1.0.exe`
 
 ---
 
