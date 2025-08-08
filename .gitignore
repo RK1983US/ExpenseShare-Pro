@@ -1,0 +1,63 @@
+# Python source files (keeping private)
+*.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Application data (generated during runtime)
+data/*.json
+data/backups/*.json
+data/exports/*
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Keep folder structure but ignore content
+!data/
+!data/backups/
+!data/exports/
+data/backups/.gitkeep
+data/exports/.gitkeep 
